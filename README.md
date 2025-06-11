@@ -10,3 +10,5 @@ Business pH:+1(423)440-1973
 jam465780/jam465780 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+npx create-react-app nolichucky-moon
+cd nolichucky-moon
